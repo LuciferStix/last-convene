@@ -1,0 +1,6 @@
+node_modules
+.env
+
+
+./components/Register.jsx
+./components/scss
